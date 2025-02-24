@@ -1,0 +1,5 @@
+n1 = int(input('Digite um número: '))
+print('A tabuáda de multiplicação de {} é: {},{},{},{},{},{},{},{},{}'.format(n1, n1*2,n1*3,n1*4,n1*5,n1*6,n1*7,n1*8,n1*9,n1*10))
+print('A tabuáda de adição de {} é: {},{},{},{},{},{},{},{},{}'.format(n1, n1+2,n1+3,n1+4,n1+5,n1+6,n1+7,n1+8,n1+9,n1+10))
+print('A tabuáda de subtração de {} é: {},{},{},{},{},{},{},{},{}'.format(n1, n1-2,n1-3,n1-4,n1-5,n1-6,n1-7,n1-8,n1-9,n1-10))
+print('A tabuáda de divisão de {} é: {:.3f},{:.3f},{:.3f},{:.3f},{:.3f},{:.3f},{:.3f},{:.3f},{:.3f}'.format(n1, n1/2,n1/3,n1/4,n1/5,n1/6,n1/7,n1/8,n1/9,n1/10))
